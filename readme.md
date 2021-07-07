@@ -11,7 +11,7 @@ I recommend using RVM https://rvm.io/ or rbenv to manage different versions of r
 
 ## Dependencies
 The script uses the package 'uri' and 'net/http' to create HTTP request to https://mach-eight.uc.r.appspot.com/, It also uses 'JSON' package to load JSON into ruby hashes
-
+These moduels are part of ruby's standard library
 ## How to use:
 
 On your bash terminal, run the following command
